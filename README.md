@@ -36,7 +36,7 @@ Usage
 
 Clone this repository:
 
-git clone https://github.com/your-username/amazon-clone.git
+git clone  https://github.com/pateatharv/amazon-clone.git
 
 Open index.html in your browser to view the project.
 
